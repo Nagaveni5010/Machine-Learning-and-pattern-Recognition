@@ -24,6 +24,21 @@ To perform face detection using OpenCV and apply K-Means clustering on facial fe
 - Clustering based on HSV features gave meaningful grouping
 - Visualization helped understand distribution of clusters
 
+## Results Visualization
+
+### Face Detection
+![Face Detection](face_detection.png)
+
+### KMeans Clustering Plot
+![Clustering](kmeans_plot.png)
+
+### Template Face Detection
+![Template](template_detection.png)
+
+### Face Clustering Visualization
+![Faces](clustering_faces.png)
+
+
 
 ## Files Included
 - Lab 5-Spring 2026.ipynb
