@@ -40,6 +40,7 @@ To perform face detection using OpenCV and apply K-Means clustering on facial fe
 
 
 
+
 ## Files Included
 - Lab 5-Spring 2026.ipynb
 - Plaksha_Faculty.jpg
